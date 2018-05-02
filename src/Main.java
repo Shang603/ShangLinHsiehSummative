@@ -4,6 +4,8 @@ public class Main {
         ShangLinWindow window = new ShangLinWindow(900, 800);
         window.setVisible(true);
 
+        System.out.println("dick");
+
     }
 
 }
